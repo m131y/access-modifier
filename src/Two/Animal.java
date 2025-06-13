@@ -1,7 +1,7 @@
 package Two;
 
 public class Animal {
-    protected static String publicField = "나는 퍼블릭 하다.";
+    private static String publicField = "나는 퍼블릭 하다.";
 }
 
 class Dog extends Animal{
