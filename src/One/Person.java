@@ -6,5 +6,7 @@ public class Person {
     public Person() {
         System.out.println(Animal.publicField);
     }
+
+
 }
 
